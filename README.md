@@ -5,7 +5,7 @@ Simple but pleasing Anki styling that makes me more likely to actually do my rep
 
 
 ## How to Use
-Simply copy and paste the relevant HTML and CSS code into the Front Templace, Back Template, and Styling pages. 
+Simply copy and paste the relevant HTML and CSS code into the Front Template, Back Template, and Styling pages. 
 
 The only things to keep in mind are:
 1. Using bold in the answer field will displace the bolded text slightly to the left. This is so that you can quickly use bold as a list header. It will not affect bolded text in the prompt field.
