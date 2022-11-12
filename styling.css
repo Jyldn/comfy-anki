@@ -1,0 +1,48 @@
+.card {
+  font-family: serif;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+#outerAnsWrapper {
+	height: fit-content;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#answerWrapper {
+	width: 80%;
+	padding: 20px 20px;
+	box-shadow: 10px 10px;
+	border-style: solid;
+	border-width: 2px;
+}
+#backWrapper {
+	margin: auto;
+	padding: 20px 20px;
+	width: 80%;
+	margin-top: 25px;
+	text-align: left;
+	font-style: italic;
+}
+b {
+	font-style: normal;
+	color: #ffa69e;
+}
+#backWrapper > b {
+		margin-left: -15px;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+}
+main {
+	width: 90%;
+	margin: auto;
+	padding: 10px 10px;
+}
