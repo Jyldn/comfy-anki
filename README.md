@@ -1,5 +1,5 @@
 # comfy-anki
-Simple but pleasing Anki styling that make me more likely to actually do my reps.
+Simple but pleasing Anki styling that makes me more likely to actually do my reps.
 
 <img src="https://i.imgur.com/5cK4vRa.jpg" width="225" alt="accessibility text">
 
